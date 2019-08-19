@@ -1,6 +1,6 @@
 # DASH Unload Component
 
-DASH Unload Component is a Dash component library.
+DASH Unload Component is component which listens to unload event.
 
 Get started with:
 1. Install package from local directory (where setup.py is):
