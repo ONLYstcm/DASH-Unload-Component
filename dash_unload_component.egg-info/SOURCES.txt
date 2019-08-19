@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+package.json
+setup.py
+dash_unload_component/Unload.py
+dash_unload_component/__init__.py
+dash_unload_component/_imports_.py
+dash_unload_component/dash_unload_component.min.js
+dash_unload_component/dash_unload_component.min.js.map
+dash_unload_component/metadata.json
+dash_unload_component/package-info.json
+dash_unload_component.egg-info/PKG-INFO
+dash_unload_component.egg-info/SOURCES.txt
+dash_unload_component.egg-info/dependency_links.txt
+dash_unload_component.egg-info/top_level.txt

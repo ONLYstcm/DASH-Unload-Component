@@ -1,0 +1,7 @@
+include dash_unload_component/dash_unload_component.min.js
+include dash_unload_component/dash_unload_component.min.js.map
+include dash_unload_component/metadata.json
+include dash_unload_component/package-info.json
+include README.md
+include LICENSE
+include package.json
