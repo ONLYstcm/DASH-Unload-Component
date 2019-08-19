@@ -1,9 +1,9 @@
 Metadata-Version: 1.0
 Name: dash_unload_component
-Version: 0.0.1
+Version: 1.2.1
 Summary: DASH component which listens to unload event
 Home-page: UNKNOWN
-Author: Scott Eyono <scott.eyono@gmail.com>
+Author: STCM
 Author-email: UNKNOWN
 License: MIT
 Description: UNKNOWN
