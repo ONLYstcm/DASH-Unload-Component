@@ -27,7 +27,7 @@ Get started with:
         if close is None:
             return None
         print("Current window is closed? ", close)
-    return None
+        return None
 
     if __name__ == '__main__':
         app.run_server(debug=True)
